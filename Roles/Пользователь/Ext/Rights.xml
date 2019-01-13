@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Rights xmlns="http://v8.1c.ru/8.2/roles" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="Rights" version="2.3">
+	<setForNewObjects>false</setForNewObjects>
+	<setForAttributesByDefault>true</setForAttributesByDefault>
+	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
+	<object>
+		<name>DataProcessor.web_ОбработкаWebServise</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>HTTPService.web_reports.URLTemplate.Report.Method.DELETE</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>HTTPService.web_reports.URLTemplate.Report.Method.GET_xml</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+	</object>
+</Rights>
